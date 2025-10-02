@@ -109,3 +109,6 @@ bin/
 *.jks
 application-local.properties
 application-secret.properties
+
+# Exception: Allow JAR dependencies in lib directory
+!lib/*.jar
