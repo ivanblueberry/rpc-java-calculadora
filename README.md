@@ -71,8 +71,8 @@ rpc-java-calculadora/
 
 ### 1. Clonar o Descargar el Proyecto
 ```bash
-# Si usas Git
-git clone <url-del-repositorio>
+# Clonar el repositorio
+git clone https://github.com/ivanblueberry/rpc-java-calculadora.git
 cd rpc-java-calculadora
 ```
 
